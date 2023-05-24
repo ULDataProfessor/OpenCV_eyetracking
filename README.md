@@ -1,4 +1,4 @@
-# OpenCV_eyetracking_Pavlov
+# OpenCV_eyetracking
 Simple project for eye tracking
 Forked from Vonej/OpenCV_eyetracking_Pavlov[https://github.com/Vonej/OpenCV_eyetracking_Pavlov]
 
